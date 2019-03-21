@@ -3,4 +3,11 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="toast_bg">#dddfe0</color>
+    <color name="fab_bg">#FF4081</color>
+    <color name="bottom_shadow">#6e000000</color>
+    <color name="drawer_item_bg_p">#e8e8e8</color>
+    <color name="drawer_item_bg_n">#fffff9</color>
+    <color name="drawer_header_text">#2c2c2c</color>
 </resources>
